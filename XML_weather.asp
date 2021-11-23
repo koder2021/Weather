@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <weather date="2012-11-15" created="rp5.ru">
 	<point id="7285">
 		<point_id>7285</point_id>    
